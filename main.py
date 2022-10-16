@@ -6,6 +6,6 @@ def fib(n):
     print()
 
 # Driver Program
-x = input("Enter The 'n':")
+x = int(input("Enter The 'n':"))
 print(fib(x))
 
